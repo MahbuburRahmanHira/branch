@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'HR Branch',
-    'version': '16.0.1.0.0',
+    'version': '15.0.1.0.0',
     'description': 'This module is designed based on NGO branches.',
     'author': 'Mahbubur Rahman Hira',
     'website': 'https://www.youtube.com/@OdooLearning',
