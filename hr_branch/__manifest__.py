@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'HR Branch',
+    'name': 'HR Branches',
     'version': '15.0.1.0.0',
     'description': 'This module is designed based on NGO branches.',
     'author': 'Mahbubur Rahman Hira',
